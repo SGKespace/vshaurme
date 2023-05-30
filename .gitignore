@@ -4,3 +4,5 @@ __pycache__
 .vscode
 *.DS_Store
 ._*
+db.sqlite3
+db.sqlite3-journal
